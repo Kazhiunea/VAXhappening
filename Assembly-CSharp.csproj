@@ -53,14 +53,9 @@
     <UnityVersion>2020.3.20f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\Sprites\Free Pixel Army\Scripts\IdleButton.cs" />
-    <Compile Include="Assets\Sprites\Free Pixel Army\Scripts\WalkButton.cs" />
-    <Compile Include="Assets\Sprites\Free Pixel Army\Scripts\BoredButton.cs" />
-    <Compile Include="Assets\Sprites\Free Pixel Army\Scripts\YawnButton.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Sprites\Free Pixel Army\Documentation\Documentation.txt" />
     <None Include="Assets\Sprites\Nature_pixel_art_assets\pixel_snapping_README.txt" />
   </ItemGroup>
   <ItemGroup>
